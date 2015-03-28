@@ -1,0 +1,22 @@
+
+body {
+
+}
+
+.bgImg {
+  background-image: url('bg.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.bgImg {
+  text-align: center;
+  font-size: 4em;
+  color: #FFF;
+}
+
+
+.bgImg2 {
+  background-image: url('bg2.jpg');
+  background-size: cover;
+}
