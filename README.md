@@ -2,6 +2,7 @@
 
 ### Usage
 
+```html
 <script src="https://raw.githubusercontent.com/jquave/responsive-full-width-image-divs/master/main.min.js" type="text/javascript">
 </script>
 
@@ -15,3 +16,4 @@
 <div id="picRow" class="fit">
 Your Content Here
 </div>
+```
